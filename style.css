@@ -1,8 +1,13 @@
-html, body {
-    margin: 0;
-    padding: 0;
+body{
+  color : white;
+  background-color: rgba(15, 160, 179, 0.875);
+margin: 0px;
+
+}
+
+  header{
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+  color :aquamarine
   }
-  canvas {
-    display: block;
-  }
-  
